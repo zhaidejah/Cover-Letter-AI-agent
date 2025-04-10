@@ -1,4 +1,4 @@
 streamlit
-crewai
 python-docx
 PyMuPDF
+crewai==0.114.0
